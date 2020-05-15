@@ -1,5 +1,6 @@
 {
     "name": "Chapter 9a Penalty Shoot Out (with Potentio Bit)",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
